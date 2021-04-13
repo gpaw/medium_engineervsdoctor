@@ -1,3 +1,20 @@
+## Source Code for the Article
+
+Can A Software Developer Make As Much As A Doctor?
+
+https://georgepaw.medium.com/can-a-software-developer-make-as-much-as-a-doctor-fb2553ed575d
+
+## Rendered Jupyter Notebook
+https://nbviewer.jupyter.org/github/gpaw/medium_engineervsdoctor/blob/main/Software%20Developer%20and%20Medical%20GP%20Comparison.ipynb
+
+## Quick setup
+
+```bash
+pipenv shell
+pip install -r requirements.txt
+jupyter-notebook
+```
+
 ## Software Developers
 
 Assumptions for Engineer
